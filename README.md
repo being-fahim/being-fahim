@@ -36,14 +36,14 @@
 ### 📊 GitHub Analytics & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=being-fahim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Fahim's GitHub Stats" width="49%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api?username=being-fahim&show_icons=true&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Stats" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=being-fahim&theme=tokyonight&hide_border=true" alt="Fahim's GitHub Streak" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=being-fahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
+  <img src="https://github-readme-stats-two-nu.vercel.app/api/top-langs?username=being-fahim&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="49%" />
 </div>
 
 ---
